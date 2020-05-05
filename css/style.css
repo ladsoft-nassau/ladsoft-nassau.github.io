@@ -178,6 +178,7 @@ div.card {
 
 img.photo {
     width: 240px;
+    height: 240px;
     border: 3px solid #FFFFFF;
     box-sizing: border-box;
     border-radius: 50%;
@@ -200,4 +201,24 @@ p.card {
     line-height: 28px;
     text-align: center;
     color: #000000;
+
+}
+
+ul.social {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+ul.social li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ul.social li a {
+    padding: 5px 15px;
+    font-size: 20px;
+    color: #ffffff;
 }
