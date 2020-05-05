@@ -222,3 +222,43 @@ ul.social li a {
     font-size: 20px;
     color: #ffffff;
 }
+
+section#contato {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+img.contato {
+    width: 355px;
+    margin-top: 70px;
+}
+
+p.assinatura {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    color: #868585;
+}
+
+p.assinatura a {
+    text-decoration: none;
+    color: #868585;
+}
+
+img.assinatura {
+    width: 205px;
+    margin-top: 25px;
+}
+
+small {
+    color: #868585;
+}
+
+div.black {
+    margin-top: 35px;
+    height: 205px;
+    width: 100%;
+    background-color: #3D3939;
+}
