@@ -25,6 +25,13 @@ header {
     z-index: 1; */
 }
 
+section#home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
 h1 img {
    width: 260px;
    padding-top: 20px;
@@ -50,6 +57,7 @@ section#atuacao {
     align-items: center;
     justify-content: center;
 }
+
 h2 {
     width: 88px;
     font-weight: bold;
@@ -95,6 +103,7 @@ div.act {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 
 img.destination {
