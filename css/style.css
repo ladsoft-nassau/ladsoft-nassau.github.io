@@ -185,7 +185,6 @@ img.photo {
 }
 
 h4 {
-    width: 293px;
     height: 34px;
     font-weight: 600;
     font-size: 24px;
@@ -196,30 +195,9 @@ h4 {
 
 p.card {
     width: 310px;
-    height: 233px;
     font-weight: normal;
     font-size: 24px;
     line-height: 28px;
     text-align: center;
     color: #000000;
-
-}
-
-ul.social {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-}
-
-ul.social li {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-ul.social li a {
-    padding: 5px 15px;
-    font-size: 20px;
-    color: #ffffff;
 }
