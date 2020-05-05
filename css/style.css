@@ -212,9 +212,6 @@ ul.social {
 }
 
 ul.social li {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -222,7 +219,7 @@ ul.social li {
 }
 
 ul.social li a {
-    padding: 30px;
-    font-size: 46px;
+    padding: 15px;
+    font-size: 20px;
     color: #ffffff;
 }
