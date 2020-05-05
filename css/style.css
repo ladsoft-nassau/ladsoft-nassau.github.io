@@ -209,13 +209,13 @@ ul.social {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
 }
 
 ul.social li {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 25px 0;   
 }
 
 ul.social li a {
