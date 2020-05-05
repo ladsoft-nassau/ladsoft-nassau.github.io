@@ -157,7 +157,7 @@ p.white {
     margin-top: 25px;
 }
 
-div.pessoas {
+div.pessoa {
     display: flex;
     flex-direction: column;
     justify-content: center;
